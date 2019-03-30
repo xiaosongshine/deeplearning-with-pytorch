@@ -10,7 +10,7 @@ DeepLearning with PyTorch
 
 ## 配置环境
 
-书中已经详细给出了如何基于Anaconda配置python环境，以及PyTorch的安装，如果你使用自己的电脑，并且有Nvidia的显卡，那么你可以愉快地进入深度学习的世界了，如果你没有Nvidia的显卡，那么我们需要一个云计算的平台来帮助我们学习深度学习之旅。[如何配置aws计算平台]([github]+/blob/master/aws.md)
+书中已经详细给出了如何基于Anaconda配置python环境，以及PyTorch的安装，如果你使用自己的电脑，并且有Nvidia的显卡，那么你可以愉快地进入深度学习的世界了，如果你没有Nvidia的显卡，那么我们需要一个云计算的平台来帮助我们学习深度学习之旅。[如何配置aws计算平台]([github]/aws.md)
 
 
 **以下的课程目录和书中目录有出入，因为内容正在更新到第二版，第二版即将上线！！**
